@@ -30,15 +30,14 @@ The application has a simple structure with the main class already set up:
 
 package com.example.flightplanner;
 
-import org.springframework.boot.SpringApplication;
+`import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-
 @SpringBootApplication
 public class FlightPlannerApplication {
 public static void main(String[] args) {
 SpringApplication.run(FlightPlannerApplication.class, args);
 }
-}
+}`
 
 ## Run the Application
 To run the application:
@@ -53,8 +52,8 @@ http://localhost:8080
 You should see a confirmation that the backend service is running.
 
 ## Technologies
-Java 17 or later
-Spring Boot
-Maven
+- Java 17 or later
+- Spring Boot
+- Maven
 
 ### © 2025 Artjom Eller
