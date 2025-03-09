@@ -1,7 +1,11 @@
 # Flight Planner Backend
 
 This is the backend service for the Flight Planner application. This README provides instructions on how to set up and run the backend project.
+![Kuvatõmmis 1](images/flights-filter.png)
+*Filter and flights*
 
+![Kuvatõmmis 2](images/Seatpreferences-map.png)
+*Bookings*
 ## Prerequisites
 
 - Java Development Kit (JDK) 17 or later
